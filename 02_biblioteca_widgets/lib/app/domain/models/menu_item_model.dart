@@ -3,7 +3,7 @@ import 'package:biblioteca_widgets/app/presentation/screens/botones_screen.dart'
 import 'package:biblioteca_widgets/app/presentation/screens/cards_screen.dart';
 import 'package:biblioteca_widgets/app/presentation/screens/dialogs_screen.dart';
 import 'package:biblioteca_widgets/app/presentation/screens/infinite_scroll_screen.dart';
-import 'package:biblioteca_widgets/app/presentation/screens/onboarding_meedu_screen.dart';
+import 'package:biblioteca_widgets/app/presentation/screens/onboarging_meedu/onboarding_meedu_screen.dart';
 import 'package:biblioteca_widgets/app/presentation/screens/onboarding_screen.dart';
 import 'package:biblioteca_widgets/app/presentation/screens/progress_indicator_screen.dart';
 import 'package:biblioteca_widgets/app/presentation/screens/ui_control_screen.dart';
