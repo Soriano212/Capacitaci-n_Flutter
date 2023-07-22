@@ -49,6 +49,7 @@ class OnboardingMeeduScreen extends StatelessWidget {
             child: TextButton(
               child: const Text("Skip"),
               onPressed: () {
+                onboardingProvider.read.endReached = false;
                 Navigator.pop(context);
               },
             ),
